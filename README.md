@@ -1,2 +1,2 @@
 # hello-world
-this is other repository 88888
+this is other repository 00000
